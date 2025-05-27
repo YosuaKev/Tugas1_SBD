@@ -1,9 +1,9 @@
 -- Kelompok 7:
--- Yosua Kevan Unggul Budihardjo	(21120123120006)
+-- Yosua Kevan Unggul Budihardjo(21120123120006)
 -- Daris Muhammad Ilham	(21120123130054)
--- Gyda Marva Adriono	(21120123140043)
+-- Gyda Marva Adriono (21120123140043)
 -- Arrasyid Atma Wijaya	(21120123140114)
--- Izac Luthfi Pranowo	(21120123120010)
+-- Izac Luthfi Pranowo (21120123120010)
 
 -- DROP TABLE f_shift_assignments;
 -- DROP TABLE f_shifts;
