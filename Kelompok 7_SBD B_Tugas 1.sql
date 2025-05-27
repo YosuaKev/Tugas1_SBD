@@ -1,4 +1,4 @@
--- Kelompok 7:
+-- Kelompok 3:
 -- Yosua Kevan Unggul Budihardjo(21120123120006)
 -- Daris Muhammad Ilham	(21120123130054)
 -- Gyda Marva Adriono (21120123140043)
